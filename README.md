@@ -15,15 +15,16 @@ Prepare-se para ser transportado a um mundo onde o impossível se torna possíve
 ## Algumas imagens da HQ
 
 <p> Personagem principal - Gabriel Sousa <p>
-<img src="Todas imagens capitulo 1 DALLE3/Cena (11).png" width="400">
-<img src ="Todas imagens capitulo 1 DALLE3/Cena (37).png" width="400">
+<img src="https://github.com/GuiCPessoa/Lendas_HQ/assets/93964438/58220f0b-1488-4de3-92a1-798e23bb97c5" width="400">
+<img src ="https://github.com/GuiCPessoa/Lendas_HQ/assets/93964438/c7197554-1f66-43c0-a435-cdde4aaaff09" width="400">
 
 <p> Autoridade do Governo - Dra. Helena Rocha <p>
-<img src="Todas imagens capitulo 1 DALLE3/Cena (15).png" width="400">
-<img src="Cenas CAP2/Cena (4).png" width="400">
+<img src="https://github.com/GuiCPessoa/Lendas_HQ/assets/93964438/444800e0-f942-4598-9017-bbdd66df1a1f" width="400">
+<img src="https://github.com/GuiCPessoa/Lendas_HQ/assets/93964438/2cfd4c2c-ea9d-4289-be16-83d27120101a" width="400">
 
 
 ## Webtoon
 Você pode ler online e acompanhar os próximos capítulos de Lendas:
 <br>
 ## <a href="https://www.webtoons.com/en/canvas/lendas/list?title_no=916693">Clique e leia no site WebToon</a>
+
