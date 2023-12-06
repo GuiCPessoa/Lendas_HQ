@@ -10,3 +10,16 @@ Gabriel Sousa, um jovem especialista em mito-tecnologia, vê seu mundo virar de 
 "Lendas" é uma aventura repleta de ação, mistério e emoção. Cada capítulo é uma jornada por si só, explorando as profundezas do folclore brasileiro e os limites da inovação tecnológica. Esta história não é apenas uma exploração do fantástico, mas também um reflexo sobre a natureza do poder, a importância do equilíbrio e o significado de redenção.
 
 Prepare-se para ser transportado a um mundo onde o impossível se torna possível, onde as lendas respiram e a ciência desafia os limites da imaginação. "Lendas" espera por você, pronto para revelar seus segredos. Será que você está pronto para desvendá-los?
+
+
+## Algumas imagens da HQ
+
+<p> Personagem principal - Gabriel Sousa <p>
+<img src="Todas imagens capitulo 1 DALLE3/Cena (11).png" width="400">
+<img src ="Todas imagens capitulo 1 DALLE3/Cena (37).png" width="400">
+
+<p> Autoridade do Governo - Dra. Helena Rocha <p>
+<img src="Todas imagens capitulo 1 DALLE3/Cena (15).png" width="400">
+
+
+
