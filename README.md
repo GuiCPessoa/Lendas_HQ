@@ -20,6 +20,10 @@ Prepare-se para ser transportado a um mundo onde o impossível se torna possíve
 
 <p> Autoridade do Governo - Dra. Helena Rocha <p>
 <img src="Todas imagens capitulo 1 DALLE3/Cena (15).png" width="400">
+<img src="Cenas CAP2/Cena (4).png" width="400">
 
 
-
+## Webtoon
+Você pode ler online e acompanhar os próximos capítulos de Lendas:
+<br>
+## <a href="https://www.webtoons.com/en/canvas/lendas/list?title_no=916693">Clique e leia no site WebToon</a>
